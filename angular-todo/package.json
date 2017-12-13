@@ -1,0 +1,19 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thalisimon/Angular-Todo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Thalisimon/Angular-Todo/issues"
+  },
+  "homepage": "https://github.com/Thalisimon/Angular-Todo#readme",
+  "description": ""
+}

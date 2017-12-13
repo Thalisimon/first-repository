@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "So far I've learned how to\r 1. Get setup with Git and Github\r \t1. Installing Git\r \t1. Signing up Github\r 1. Use the **command line**\r 1. Push code to a **repository**\r 1. Merge code using\r \t1. git merge\r \t1. Github's pull requests\r 1. Creating README files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thalisimon/first-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thalisimon/first-repository/issues"
+  },
+  "homepage": "https://github.com/Thalisimon/first-repository#readme"
+}
